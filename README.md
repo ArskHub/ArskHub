@@ -1,5 +1,7 @@
 ![logo](https://github.com/ArskHub/ArskHub/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Putu Ardi Sudarmika</h1>
+
+<p aligh= "center"><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=600&size=40&pause=2000&color=D9D9D9&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B,+I%27m+ardiskaa"></p>
+
 <h3 align="center">A passionate Udayana Informatics Student from Bali</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
