@@ -1,6 +1,6 @@
 ![logo](https://github.com/ArskHub/ArskHub/blob/main/Github%20Banner.png)
 
-<p aligh= ""><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=600&size=40&pause=2000&color=D9D9D9&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B,+I%27m+ardiskaa"></p>
+<p aligh= "center"><img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=600&size=40&pause=2000&color=D9D9D9&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B,+I%27m+ardiskaa"></p>
 
 <h3 align="center">A passionate Udayana Informatics Student from Bali</h3>
 
