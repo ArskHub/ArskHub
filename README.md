@@ -1,4 +1,4 @@
-![logo] (https://github.com/ArskHub/ArskHub/blob/main/Github%20Banner.png)
+![logo](https://github.com/ArskHub/ArskHub/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Putu Ardi Sudarmika</h1>
 <h3 align="center">A passionate Udayana Informatics Student from Bali</h3>
 
